@@ -1,16 +1,13 @@
-### Hi there 👋
+### Rhuan PK Profile (simply)
 
-<!--
-**rhuan-pk/rhuan-pk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 I’m currently working as PHP Junior Developer
+- 🌱 I’m currently learning Shell Script and GNU/Linux OS
+- 🤔 I’m looking for help with scripting and open source projects
+- 💬 Ask me about GNU/Linux and Shell Scripts?
+- 📫 How to reach me: rhuan.pksf@gmail.com
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div align="center">
+  <a href="https://github.com/rhuan-pk">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rhuan-pk&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rhuan-pk&layout=compact&langs_count=7&theme=dark"/>
+</div>
