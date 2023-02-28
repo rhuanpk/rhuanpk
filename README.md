@@ -1,4 +1,4 @@
-# #! /bin/bash
+## #! /bin/bash
 
 <div align="center">
   <a href="https://github.com/rhuan-pk">
