@@ -25,7 +25,7 @@ Do you know what is a [_shebang_](https://en.wikipedia.org/wiki/Shebang_(Unix))?
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=rhuanpk&theme=radical&show_icons=true&card_width=125">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rhuanpk&theme=radical&card_width=410">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rhuanpk&theme=radical&card_width=405">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=rhuanpk&bg_color=141321&color=a9fef7&title_color=fe428e&line=ba3d70&point=f8d847&area=true&radius=7&height=350">
 </div>
 
