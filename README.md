@@ -13,13 +13,13 @@ Do you know what is a [_shebang_](https://en.wikipedia.org/wiki/Shebang_(Unix))?
 
 ## Main Skills
 
-| Type      | Stacks                                                                                                                                               |
-| --------- | ---------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Languages | [![golang icon][go]](https://go.dev/) [![nodejs icon][nodejs]](https://nodejs.org/en) [![bash icon][bash]](https://gnu.org/software/bash/)                                                           |
-| Database  | [![mysql icon][mysql]](https://mysql.com/) [![postgres icon][postgres]](https://postgresql.org/)                                                     |
-| DevOps    | [![nginx icon][nginx]](https://nginx.org/en/) [![docker icon][docker]](https://docker.com/) [![kubernetes icon][kubernetes]](https://kubernetes.io/) |
-| Tools     | [![git icon][git]](https://git-scm.com/) [![vim icon][vim]](https://vim.org/) [![vscode icon][vscode]](https://code.visualstudio.com/) [![postman icon][postman]](https://postman.com/) |
-| OS        | [![linux icon][linux]](https://kernel.org/) [![windows icon][windows]](https://microsoft.com/en-us/windows)                                          |
+| Type      | Stacks                                                                                                                                                                                      |
+| --------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Languages | [![golang icon][go]](https://go.dev/) [![nodejs icon][nodejs]](https://nodejs.org/en) [![bash icon][bash]](https://gnu.org/software/bash/)                                                  |
+| Database  | [![mysql icon][mysql]](https://mysql.com/) [![postgres icon][postgres]](https://postgresql.org/)                                                                                            |
+| DevOps    | [![nginx icon][nginx]](https://nginx.org/en/) [![docker icon][docker]](https://docker.com/) [![kubernetes icon][kubernetes]](https://kubernetes.io/)                                        |
+| Tools     | [![git icon][git]](https://git-scm.com/) [![vim icon][vim]](https://www.vim.org/) [![vscode icon][vscode]](https://code.visualstudio.com/) [![postman icon][postman]](https://postman.com/) |
+| OS        | [![linux icon][linux]](https://kernel.org/) [![windows icon][windows]](https://microsoft.com/en-us/windows)                                                                                 |
 
 ## Profile Stats
 
